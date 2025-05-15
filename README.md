@@ -1,5 +1,8 @@
 # Higress OPS MCP Server
 
+
+[![smithery badge](https://smithery.ai/badge/@higress-group/higress-ops-mcp-server)](https://smithery.ai/server/@higress-group/higress-ops-mcp-server)
+
 A Model Context Protocol (MCP) server implementation that enables comprehensive configuration and management of [Higress](https://higress.cn/). This repository also provides an MCP client built on top of [LangGraph](https://www.langchain.com/langgraph) and [LangChain MCP Adapters](https://github.com/langchain-ai/langchain-mcp-adapters), facilitating interaction with the Higress MCP Server through a well-designed agent flow architecture.
 
 ## Demo
@@ -108,3 +111,4 @@ SENSITIVE_TOOLS = [
     "your_tool_function"  # Add your tool name here if it requires confirmation
 ]
 ```
+
