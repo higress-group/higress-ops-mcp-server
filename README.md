@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/higress-group-higress-ops-mcp-server-badge.png)](https://mseep.ai/app/higress-group-higress-ops-mcp-server)
+
 # Higress OPS MCP Server
 
 A Model Context Protocol (MCP) server implementation that enables comprehensive configuration and management of [Higress](https://higress.cn/). This repository also provides an MCP client built on top of [LangGraph](https://www.langchain.com/langgraph) and [LangChain MCP Adapters](https://github.com/langchain-ai/langchain-mcp-adapters), facilitating interaction with the Higress MCP Server through a well-designed agent flow architecture.
