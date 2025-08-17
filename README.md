@@ -1,4 +1,5 @@
 # Higress OPS MCP Server
+[![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/higress-group/higress-ops-mcp-server)](https://archestra.ai/mcp-catalog/higress-group__higress-ops-mcp-server)
 
 A Model Context Protocol (MCP) server implementation that enables comprehensive configuration and management of [Higress](https://higress.cn/). This repository also provides an MCP client built on top of [LangGraph](https://www.langchain.com/langgraph) and [LangChain MCP Adapters](https://github.com/langchain-ai/langchain-mcp-adapters), facilitating interaction with the Higress MCP Server through a well-designed agent flow architecture.
 
