@@ -108,3 +108,8 @@ SENSITIVE_TOOLS = [
     "your_tool_function"  # Add your tool name here if it requires confirmation
 ]
 ```
+
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/higress-group-higress-ops-mcp-server).
+
